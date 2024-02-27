@@ -1,5 +1,6 @@
 # Team Role Generator 
-  The main purpose of this project was to create a Role Generator to create and maintain a roster of employees and display them as cards using bootstrap. It dynamically creates a HTML dynamically using NodeJS, Inquirer and fs, based on the input from the user. This was a great project and furthered my knowledge on  Node and how to use Inquirer prompts and questions, I look forward for my future projects that may have a similar functionality.
+  The main objective of this project was to develop a Role Generator that could create and manage a list of employees and display them as cards using Bootstrap. It uses NodeJS, Inquirer, and fs to dynamically create an HTML page based on the user's input. This project helped me improve my knowledge of Node and how to use Inquirer prompts and questions.
+I'm looking forward to working on similar projects that have the same functionality in the future.
   ## Table of Contents
   * [Usage](#usage)
   * [License](#license)
@@ -9,13 +10,13 @@
   ## Installation
   A video will be added.
   ## Usage 
-  To use this app you will have to, Visual Studio Code, NodeJS, Jest, fs(included with node) and Inquirer
+  To use this app you will have to use, Visual Studio Code, NodeJS, Jest, fs(included with node) and Inquirer
   ## Credits
   
   ## License
   This Project is protected under this project - 
   ## Tests
-  To run the application you will want to open the terminal in the main directory of the cloned repository and type node index.js. After that is done you will be asked a few questions and once completed a index.html will but created in the output folder.
+  To run the application you will want to open the terminal in the main directory of the cloned repository and type node index.js. After that is done, you will be asked a few questions and once completed a team.html will be created in the output folder.
   ## Questions
   * Email - KaleimBusiness@gmail.com
   * Github Profile - [KaleimS](https://github.com/KaleimS)
