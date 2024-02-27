@@ -10,7 +10,7 @@ I'm looking forward to working on similar projects that have the same functional
   ## Installation
   A video will be added.
   ## Usage 
-  To use this app you will have to use, Visual Studio Code, NodeJS, Jest, fs(included with node) and Inquirer
+  To use this app you will have to use, Visual Studio Code, NodeJS, Jest, fs(included with node) and Inquirer 6.5.0
   ## Credits
   
   ## License
