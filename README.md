@@ -14,7 +14,7 @@ I'm looking forward to working on similar projects that have the same functional
   ## Credits
   
   ## License
-  This Project is protected under this project - 
+  This Project is protected under this project - Mit Licence
   ## Tests
   To run the application you will want to open the terminal in the main directory of the cloned repository and type node index.js. After that is done, you will be asked a few questions and once completed a team.html will be created in the output folder.
   ## Questions
